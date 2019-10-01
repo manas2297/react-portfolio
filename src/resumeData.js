@@ -1,20 +1,20 @@
 let resumeData = {
   imagebaseurl: "",
-  name: "Divyanshi Singh",
-  role: "Web developer | Coder | Machine Learning | Writer",
-  linkedinId: "https://www.linkedin.com/in/Divyanshi",
+  name: "Manas Yadav",
+  role: "Web developer | Coder | UI designer",
+  linkedinId: "https://www.linkedin.com/in/manas-mmmut",
   skypeid: "Your skypeid",
   roleDescription:
-    "I am a self taught web developer and Data Scientist, who loves to code and learn new technologies. Writing is my art!!!",
+    "I am a self taught web developer and UI Designer, who loves to code and learn new technologies.",
   socialLinks: [
     {
       name: "linkedin",
-      url: "https://www.linkedin.com/in/divyanshipilot",
+      url: "https://www.linkedin.com/in/manas-mmmut",
       className: "fa fa-linkedin"
     },
     {
       name: "github",
-      url: "http://github.com/divyanshipilot",
+      url: "http://github.com/manas2297",
       className: "fa fa-github"
     },
     {
@@ -24,26 +24,25 @@ let resumeData = {
     }
   ],
   aboutme:
-    "I am currently a B.Tech 2nd Year student in Madan Mohan Malaviya University of Technology, Gorakhpur. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-  address: "Bariely,India",
-  website: "https://divyanshi.github.io",
+    "I am FullStack Web Developer and a UI designer based in Bengaluru, and working in the company Cronj IT Technologies. I am currently diving deeper into contributing to open source projects. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+  address: "Bengaluru,India",
+  website: "https://nostalgic-panini-95419b.netlify.com/",
   education: [
     {
       UniversityName: "Madan Mohan Malaviya University Of Technology",
       specialization: "Computer Science & Engineering",
       MonthOfPassing: "Aug",
-      YearOfPassing: "2022",
-      Achievements:
-        "State level Takewando Champion | NCC Cadet | Best Youth Parliament Speaker"
+      YearOfPassing: "2019",
+      Achievements: "National Level Kabbadi Winner"
     }
   ],
   work: [
     {
-      CompanyName: "Student",
-      specialization: "Looking for Internships",
-      MonthOfLeaving: "December",
-      YearOfLeaving: "2019",
-      Achievements: "Machine Learning | Web Developer"
+      CompanyName: "Cronj IT Technologies",
+      specialization: "Software Developer",
+      MonthOfLeaving: "",
+      YearOfLeaving: "",
+      Achievements: "Full Stack Web Developer"
     }
   ],
   skillsDescription: "Your skills here",
@@ -55,10 +54,19 @@ let resumeData = {
       skillname: "CSS"
     },
     {
-      skillname: "Python3"
+      skillname: "Nodejs"
     },
     {
       skillname: "c++"
+    },
+    {
+      skillname: "ReactJS"
+    },
+    {
+      skillname: "ExpressJS"
+    },
+    {
+      skillname: "Redux"
     }
   ],
   portfolio: [
@@ -85,12 +93,11 @@ let resumeData = {
   ],
   testimonials: [
     {
-      description:
-        "She is hardworking and really good in python and machine learning.",
-      name: "Manas Yadav"
+      description: "He is hardworking and really good in Javascript.",
+      name: "Shubhanshu Mani"
     },
     {
-      description: "She has excellent Technical skills in machine learning ",
+      description: "He has excellent Technical skills in Nodejs ",
       name: "Shivam Kumar"
     }
   ]
